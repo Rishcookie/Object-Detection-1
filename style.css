@@ -1,0 +1,46 @@
+body{
+    background-image: url("back5becwhynot.gif");
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+    font-family: 'Zen Tokyo Zoo', cursive;
+}
+
+label{
+   font-size: 28px;
+    font-family: 'Caveat', cursive;
+}
+
+#start{
+    font-size: 23px;
+    font-family: 'Caveat', cursive;
+    background-color: rgb(185, 144, 240);
+    color: white;
+    border-radius: 10px;
+
+}
+
+#object_status{
+    font-size: 23px;
+    font-family: 'Caveat', cursive;
+    background-color: rgb(127, 227, 235);
+    color: white;
+    border-radius: 10px;
+}
+
+#object_found{
+    font-size: 23px;
+    font-family: 'Caveat', cursive;
+    background-color: rgb(250, 167, 253);
+    color: white;
+    border-radius: 10px;
+}
+
+input{
+    width: 250px;
+    height: 30px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 23px;
+}
